@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <h1> Learn reaach with chai code .com</h1>
+    <h1> Learn react for real feat :Devansh Sharma</h1>
     <p> this is a simple react app </p>
     </>
   )
